@@ -1,9 +1,6 @@
 | No | Action | URL | Test Data | Screenshot | Expected Output | Actual Output | Browser | Test Result | Test Comment |   
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Klik ikon IDProo
- ![logo_idproo](_static/logo_idproo.jpg/?sanitize=true)
-
- | [https://idproo.id](https://idproo.id) |   |
+| 1 | Klik ikon IDProo ![logo_idproo](_static/logo_idproo.jpg/?sanitize=true) | [https://idproo.id](https://idproo.id) |   |
  ![ss_01](_static/ss_01.png/?sanitize=true)
 
 
