@@ -4,7 +4,7 @@ Pengujian perangkat lunak dapat dibedakan menjadi dua yaitu _Black Box Testing_ 
 
 - **Black Box Testing**
 
- ![sample 01](_static/sample 01.png/?sanitize=true)
+ ![sample_01](_static/sample_01.png/?sanitize=true)
 
 _Black Box Testing_ atau yang sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian Perangkat Lunak yang digunakan untuk menguji perangkat lunak tanpa mengetahui struktur internal kode atau Program. Dalam pengujian ini, _tester_ menyadari apa yang harus dilakukan oleh program tetapi tidak memiliki pengetahuan tentang bagaimana melakukannya.
 
@@ -21,7 +21,7 @@ Kelemahan _Black Box Testing_ yaitu:
 
 - **White Box Testing**
 
- ![sample 02](_static/sample 02.png/?sanitize=true)
+ ![sample_02](_static/sample_02.png/?sanitize=true)
 
 _White Box Testing_ merupakan metode pengujian perangkat lunak di mana struktur internal diketahui untuk menguji siapa yang akan menguji perangkat lunak. Pengujian ini membutuhkan pengetahuan internal tentang kemampuan sistem dan pemrograman.
 
@@ -39,7 +39,7 @@ Kelemahan _White Box Testing_ yaitu:
 
 **Hirarki Pengujian Perangkat Lunak**
 
- ![sample 03](_static/sample 03.png/?sanitize=true)
+ ![sample_03](_static/sample_03.png/?sanitize=true)
 
 Pengujian perangkat lunak memiliki urutan-urutan mengenai beberapa hal yang perlu dilakukan. Berikut adalah kategori pengujian perangkat lunak yang disusun secara kronologis:
 
@@ -53,7 +53,7 @@ _Acceptance Testing_: Pengujian beta dari produk yang dilakukan oleh pengguna ak
 
 **Jenis Pengujian Sistem**
 
- ![sample 04](_static/sample 04.png/?sanitize=true)
+ ![sample_04](_static/sample_04.png/?sanitize=true)
 
 Terdapat sekitar 50 jenis pengujian sistem. Dari 50 jenis tersebut, terdapat beberapa pengujian sistem yang biasanya digunakan oleh perusahaan pengembang _software_ atau perangkat lunak besar. Beberapa jenis tersebut diantaranya yaitu:
 
