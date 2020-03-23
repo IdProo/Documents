@@ -5,7 +5,7 @@ Memorandum
 >   disetujui oleh *reviewer*/*approver*. Setelah memorandum disetujui maka
 >   akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat
 >   pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan
->   memorandum masuk pada menu “I**nbox**” dan dapat mendisposisikan memorandum
+>   memorandum masuk pada menu “**Inbox**” dan dapat mendisposisikan memorandum
 >   kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan
 >   level staf. 
 
@@ -27,7 +27,7 @@ Menambah Memorandum
 
 1.  Klik menu **New Correspondence**
 
-![gambar 1](_static/MM_02/MM_02_01.png/?sanitize=true)
+    ![gambar 1](_static/MM_02/MM_02_01.png/?sanitize=true)
 
 1.  Pilih jenis surat “**Memorandum**”
 
@@ -55,7 +55,7 @@ berikut.
     melanjutkan memorandum yang sudah dibuat dan diubah kembali kemudian
     dikirimkan kepejabat tujuan tanpa harus mengisi form memorandum.
 
-    ![gambar 6](_static/MM_02/MM_02_06png/?sanitize=true)
+    ![gambar 6](_static/MM_02/MM_02_06.png/?sanitize=true)
 
 ### Simpan Memorandum
 
@@ -70,7 +70,7 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
     kemudian sistem akan menampilkan pop up konfirmasi **Ubah Word Desktop**
     atau **Ubah Online**
 
-    ![gambar 8](_static/MM_02/MM_02_08png/?sanitize=true)
+    ![gambar 8](_static/MM_02/MM_02_08.png/?sanitize=true)
 
 #### [Edit] Word Desktop
 
@@ -83,7 +83,7 @@ sebagai berikut.
 
 2.  Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-    ![gambar 10](_static/MM_02/MM_02_011.png/?sanitize=true)
+    ![gambar 10](_static/MM_02/MM_02_10.png/?sanitize=true)
 
 3.  Isi surat akan otomatis tersimpan
 
