@@ -1,10 +1,6 @@
 | No | Action | URL | Test Data | Screenshot | Expected Output | Actual Output | Browser | Test Result | Test Comment |   
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Klik ikon IDProo ![logo_idproo](_static/logo_idproo.jpg/?sanitize=true) | [https://idproo.id](https://idproo.id) |   |
- ![ss_01](_static/ss_01.png/?sanitize=true)
-
-
- | Web akan membuka tab baru dengan url [https://idproo.id/Identity](https://idproo.id/Identity) | Web akan membuka tab baru dengan url [https://idproo.id/Identity](https://idproo.id/Identity) | Chrome ver. 80.0.3987.106 | Pass | Rafi [03/03/2020] |   |
+| 1 | Klik ikon IDProo ![logo_idproo](_static/logo_idproo.jpg/?sanitize=true) | (https://idproo.id) |   | ![ss_01](_static/ss_01.png/?sanitize=true) | Web akan membuka tab baru dengan url (https://idproo.id/Identity) | Web akan membuka tab baru dengan url (https://idproo.id/Identity) | Chrome ver. 80.0.3987.106 | Pass | Rafi [03/03/2020] |
 | 2  | Klik pada Submenu Temporary pada Menu Positions  | [https://idproo.id/Identity](https://idproo.id/Identity) |   |
  ![ss_02](_static/ss_02.png/?sanitize=true)
 
