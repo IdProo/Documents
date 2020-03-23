@@ -27,7 +27,7 @@ Menambah Memorandum
 
 1.  Klik menu **New Correspondence**
 
-    ![gambar 1](_static/MM_02/MM_02_01.png/?sanitize=true)
+    ![gambar 1](_static/MM_02_01.png/?sanitize=true)
 
 1.  Pilih jenis surat “**Memorandum**”
 
