@@ -1,10 +1,9 @@
 | **Project Name :** IDProo Automation Test |
-| --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Test Case ID :** test 14 | **Test Priority(Low/Medium/High) :** |
 | **Test Case Name :** Manage Temporary Positions List Test | **Test Designed and Executed By :** |
 | **Module Name :** User Story Id.14 | **Test Designed and Executed Date :** |
 | **Test Description :** Proses testing pengelolaan daftar jabatan sementara yang diberikan kepada _user_, dapat mengubah, menghapus data jabatan sementara. |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | No | Action | URL | Test Data | Screenshot | Expected Output | Actual Output | Browser | Test Result | Test Comment |   |
 | 1 | Klik ikon IDProo
  ![logo_idproo](_static/logo_idproo.jpg/?sanitize=true)
