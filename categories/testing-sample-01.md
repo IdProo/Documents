@@ -1,5 +1,5 @@
 | **Project Name :** IDProo Automation Test |
-| --- | --- |
+| --- |
 | **Test Case ID :** test 14 | **Test Priority(Low/Medium/High) :** |
 | **Test Case Name :** Manage Temporary Positions List Test | **Test Designed and Executed By :** |
 | **Module Name :** User Story Id.14 | **Test Designed and Executed Date :** |
