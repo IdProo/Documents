@@ -5,9 +5,9 @@
 
 | **Test Details** | **Test Details** |
 | --- | --- |
-| **Test Case ID** : test 14 | **Test Priority(Low/Medium/High) :** |
-| **Test Case Name** : Manage Temporary Positions List Test | **Test Designed and Executed By :** |
-| **Module Name** : User Story Id.14 | **Test Designed and Executed Date :** |
+| **Test Case ID** : test 14 | **Test Priority(Low/Medium/High)** : |
+| **Test Case Name** : Manage Temporary Positions List Test | **Test Designed and Executed By** : |
+| **Module Name** : User Story Id.14 | **Test Designed and Executed Date** : |
 
 
 | No | Action | URL | Test Data | Screenshot | Expected Output | Actual Output | Browser | Test Result | Test Comment |   
