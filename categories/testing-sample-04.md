@@ -94,21 +94,21 @@ berikut.
 
 1.  Klik **Ubah Online** untuk mengubah isi surat secara online
 
-    ![gambar 11](_static/MM_02/MM_02_011.png/?sanitize=true)
+    ![gambar 11](_static/MM_02/MM_02_11.png/?sanitize=true)
 
 2.  Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-    ![gambar 12](_static/MM_02/MM_02_012.png/?sanitize=true)
+    ![gambar 12](_static/MM_02/MM_02_12.png/?sanitize=true)
 
 3.  Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft,
     maka klik **Tutup.**
 
-    ![gambar 13](_static/MM_02/MM_02_013.png/?sanitize=true)
+    ![gambar 13](_static/MM_02/MM_02_13.png/?sanitize=true)
 
 4.  Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft –
     Memorandum”**
 
-    ![gambar 14](_static/MM_02/MM_02_014.png/?sanitize=true)
+    ![gambar 14](_static/MM_02/MM_02_14.png/?sanitize=true)
 
 ### Kirim Memorandum
 
@@ -117,9 +117,9 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 1.  Pada tampilan preview memorandum, klik **Kirim** untuk mengirim surat ke
     pejabat tujuan
 
-    ![gambar 15](_static/MM_02/MM_02_015.png/?sanitize=true)
+    ![gambar 15](_static/MM_02/MM_02_15.png/?sanitize=true)
 
 2.  Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox -
     Memorandum**”
 
-    ![gambar 16](_static/MM_02/MM_02_016.png/?sanitize=true)
+    ![gambar 16](_static/MM_02/MM_02_16.png/?sanitize=true)
