@@ -1,4 +1,4 @@
-# Memorandum
+# **MEMORANDUM**
 
 Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer_/_approver_. 
 Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode 
