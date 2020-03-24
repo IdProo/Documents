@@ -15,9 +15,10 @@ click link dibawah ini! :
 - [link low level](https://ghost.org/changelog/markdown/)
 - [link mid level](https://ghost.org/changelog/markdown/ "click link ini untuk belajar markdown !")
 - **The quick brown [fox][1], jumped over the lazy [dog][2].**
- [1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
- [2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
+	[1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
+	[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
 
+Contoh Gambar:
 ![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
 
 List 1:
