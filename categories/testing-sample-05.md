@@ -1,6 +1,6 @@
 # **MEMORANDUM**
 
-Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer_/_approver_. 
+Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer/approver_. 
 Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode 
 Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;**Inbox**&quot; dan dapat 
 mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
@@ -36,13 +36,13 @@ Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah-langkah untuk m
  
 ### 2. Save as Template Memorandum
 
-Langkah僕angkah untuk menyimpan memorandum sebagai template adalah sebagai berikut.
+Langkah - langkah untuk menyimpan memorandum sebagai template adalah sebagai berikut.
 
 1. Isi form memorandum dan Klik **Save as Template**
 
  ![gambar 5](_static/MM_02/MM_02_05.png/?sanitize=true)
 
-2. Memorandum yang disimpan menjadi template akan tersimpan di menu &quot;**Draft邦emorandum**&quot;. 
+2. Memorandum yang disimpan menjadi template akan tersimpan di menu &quot;**Draft - Memorandum**&quot;. 
 Template ini digunakan jika sewaktu-waktu user akan melanjutkan memorandum yang sudah dibuat dan diubah kembali kemudian 
 dikirimkan kepejabat tujuan tanpa harus mengisi form memorandum.
 
@@ -51,7 +51,7 @@ dikirimkan kepejabat tujuan tanpa harus mengisi form memorandum.
 
 ### 3. Simpan Memorandum
 
-Langkah僕angkah untuk menyimpan memorandum adalah sebagai berikut.
+Langkah - langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 1. Isi form memorandum kemudian klik **Simpan**
 
@@ -65,7 +65,7 @@ isi surat klik **Ubah Isi** kemudian sistem akan menampilkan pop up konfirmasi *
 
 ### 4. [Edit] Word Desktop
 
-Langkah僕angkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut.
+Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut.
 
 1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
 
@@ -80,7 +80,7 @@ Langkah僕angkah untuk mengubah isi memorandum melalui Word Desktop adalah sebaga
 
 ### 5. [Edit] Ubah Online
 
-Langkah僕angkah untuk mengubah isi memorandum secara online adalah sebagai berikut.
+Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai berikut.
 
 1. Klik **Ubah Online** untuk mengubah isi surat secara online
 
