@@ -101,12 +101,12 @@ Langkah–langkah untuk mengubah isi memorandum secara online adalah sebagai berik
 
 ### 6. Kirim Memorandum
 
-Langkah–langkah untuk mengirim memorandum adalah sebagai berikut.
+Langkah - langkah untuk mengirim memorandum adalah sebagai berikut.
 
 1. Pada tampilan preview memorandum, klik **Kirim** untuk mengirim surat ke pejabat tujuan
 
  ![gambar 15](_static/MM_02/MM_02_15.png/?sanitize=true)
 
-1. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu &quot;**Outbox-Memorandum**&quot;
+1. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu &quot;**Outbox - Memorandum**&quot;
 
  ![gambar 16](_static/MM_02/MM_02_16.png/?sanitize=true)
