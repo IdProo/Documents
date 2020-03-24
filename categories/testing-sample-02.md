@@ -19,3 +19,4 @@
 | 5 | Cari Posisi/Jabatan | - | Searh Keyword : apalah | ![ss 05](_static/ss_05.png/?sanitize=true) | System diharapkan mampu melakukan proses pencarian data berdasarkan keyword yang diinputkan | System mampu melakukan proses pencarian data berdasarkan keyword yang diinputkan dan menampilkannya # ikon sort masih butuh 2x klik sebelum berfungsi normal | Chrome ver. 80.0.3987.106 | Pass (With a Note) | Rafi [03/03/2020] |
 | 6 | Hapus Posisi/Jabatan | - | Delete : jabatan tester apalah | ![ss 06](_static/ss_06.png/?sanitize=true) ![ss 07](_static/ss_07.png/?sanitize=true) | System diharapkan mampu melakukan proses penghapusan data | System mampu melakukan proses penghapusan data # masih terdapat miss pada ikon mouse dan tanda disable pada menu update dan delete | Chrome ver. 80.0.3987.106 | Pass (With A Note) | Rafi [03/03/2020] |
 
+sada
