@@ -5,7 +5,7 @@ Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomati
 Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;**Inbox**&quot; dan dapat 
 mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
 
-## 1. Menambah Memorandum
+### 1. Menambah Memorandum
 
 **Ditujukan kepada**
 
