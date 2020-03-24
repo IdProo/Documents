@@ -1,20 +1,103 @@
 # Memorandum
 
-Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer_/_approver_. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;I **nbox**&quot; dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
+    Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer/approver_. Setelah 
+memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian 
+Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;**Inbox**&quot; dan dapat 
+mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
 
-1. 1.Menambah Memorandum
+### 1. Menambah Memorandum
 
-**Ditujukan kepada**
+ **Ditujukan kepada**
 
-- --Reviewer
-- --Approver
+ - Reviewer
+ - Approver
 
-**Role yang sesuai**
+ **Role yang sesuai**
 
-- --Konseptor
+ - Konseptor
 
-Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah-langkah untuk menambah memorandum adalah sebagai berikut.
+   Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah-langkah untuk menambah memorandum adalah sebagai berikut.
 
-1. Klik menu **New Correspondence**
+   1. Klik menu **New Correspondence**
 
- ![gambar 1](_static/MM_02_01.jpg/?sanitize=true)
+    ![gambar 1](_static/MM_02_01.png/?sanitize=true)
+
+   2. Pilih jenis surat &quot; **Memorandum**&quot;
+
+    ![gambar 2](_static/MM_02_02.png/?sanitize=true)
+
+   3. Isi form tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi formnya yaitu **Simpan memorandum** , **Kirim memorandum** dan **Save as Template memorandum.**
+
+    ![gambar 3](_static/MM_02_03.jpg/?sanitize=true)
+
+    ![gambar 4](_static/MM_02_04.jpg/?sanitize=true)
+
+### 2. Save as Template Memorandum
+
+    Langkah – langkah untuk menyimpan memorandum sebagai template adalah sebagai berikut.
+
+    1. Isi form memorandum dan Klik **Save as Template**
+
+     ![gambar 5](_static/MM_02_05.png/?sanitize=true)
+
+    2. Memorandum yang disimpan menjadi template akan tersimpan di menu &quot;**Draft – Memorandum**&quot;. Template ini digunakan jika sewaktu-waktu user akan melanjutkan memorandum yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi form memorandum.
+
+     ![gambar 6](_static/MM_02_06.png/?sanitize=true)
+
+### 3. Simpan Memorandum
+
+    Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
+
+    1. Isi form memorandum kemudian klik **Simpan**
+
+     ![gambar 7](_static/MM_02_07.png/?sanitize=true)
+
+    2. Sistem akan menampilkan tampilan preview memorandum dalam bentuk word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan pop up konfirmasi **Ubah Word Desktop** atau **Ubah Online**
+
+     ![gambar 8](_static/MM_02_08.png/?sanitize=true)
+     
+#### 4. [Edit] Word Desktop
+
+    Langkah – langkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut.
+
+    1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
+
+     ![gambar 9](_static/MM_02_09.png/?sanitize=true)
+
+    2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
+
+     ![gambar 10](_static/MM_02_10.png/?sanitize=true)
+
+    3.  Isi surat akan otomatis tersimpan
+
+#### 5. [Edit] Ubah Online
+
+    Langkah – langkah untuk mengubah isi memorandum secara online adalah sebagai berikut.
+
+    1. Klik **Ubah Online** untuk mengubah isi surat secara online
+
+     ![gambar 11](_static/MM_02_11.png/?sanitize=true)
+
+    2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
+
+     ![gambar 12](_static/MM_02_12.png/?sanitize=true)
+
+    3.Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Tutup.**   
+    
+     ![gambar 13](_static/MM_02_13.png/?sanitize=true)
+
+    4. Surat yang sudah selesai diubah maka akan tersimpan di menu &quot; **Draft – Memorandum&quot;**
+
+     ![gambar 14](_static/MM_02_14.png/?sanitize=true)
+
+### 6. Kirim Memorandum
+
+    Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
+
+    1. Pada tampilan preview memorandum, klik **Kirim** untuk mengirim surat ke pejabat tujuan
+
+     ![gambar 15](_static/MM_02_15.png/?sanitize=true)
+
+    2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu &quot; **Outbox - Memorandum**&quot;
+
+     ![gambar 16](_static/MM_02_16.png/?sanitize=true)
