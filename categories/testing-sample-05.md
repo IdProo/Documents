@@ -16,7 +16,7 @@ mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di 
 
 - Konseptor
 
-Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah-langkah untuk menambah memorandum adalah sebagai berikut.
+Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah - langkah untuk menambah memorandum adalah sebagai berikut.
 
 1. Klik menu **New Correspondence**
 
