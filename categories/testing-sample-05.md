@@ -1,8 +1,11 @@
 # Memorandum
 
-Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer_/_approver_. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;**Inbox**&quot; dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
+Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh _reviewer_/_approver_. 
+Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode 
+Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu &quot;**Inbox**&quot; dan dapat 
+mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf.
 
-1. Menambah Memorandum
+### 1. Menambah Memorandum
 
 **Ditujukan kepada**
 
@@ -19,11 +22,12 @@ Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah-langkah untuk m
 
  ![gambar 1](_static/MM_02/MM_02_01.png/?sanitize=true)
 
-1. Pilih jenis surat &quot; **Memorandum**&quot;
+2. Pilih jenis surat &quot; **Memorandum**&quot;
 
  ![gambar 2](_static/MM_02/MM_02_02.png/?sanitize=true)
 
-1. Isi form tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi formnya yaitu **Simpan memorandum** , **Kirim memorandum** dan **Save as Template memorandum.**
+3. Isi form tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi formnya yaitu
+**Simpan memorandum** , **Kirim memorandum** dan **Save as Template memorandum.**
 
  ![gambar 3](_static/MM_02/MM_02_03.png/?sanitize=true)
 
