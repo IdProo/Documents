@@ -1,4 +1,4 @@
-# **1 Get Started**
+# **1. Get Started**
 
 Di dalam panduan penggunaan ini Anda akan mempelajari beberapa hal diantaranya yaitu:
   - Mengelola Data Pengguna
