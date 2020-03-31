@@ -1,0 +1,5 @@
+CorrelationId: c654f4a7-be4c-4420-a177-0add73a7e3d5
+UTC DateTime: 31/03/2020 05.35.39
+
+The following file/folder has not been downloaded
+1. Screenshot
