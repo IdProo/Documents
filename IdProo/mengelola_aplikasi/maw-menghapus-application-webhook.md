@@ -1,7 +1,8 @@
 #### **3.5.9.3 Menghapus Application Webhook**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus application webhook. Berikut ini langkah-langkah untuk 
-menghapus application webhook:
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus application webhook.
+
+Berikut ini langkah-langkah untuk menghapus application webhook:
 
 1. Pilih menu **Application**
 

@@ -1,6 +1,6 @@
 #### **3.5.4.2 Menghapus Client Secret**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapuskan lient secret aplikasi.
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapuskan client secret aplikasi.
 
 Berikut ini langkah-langkah untuk menghapuskan client secret aplikasi:
 

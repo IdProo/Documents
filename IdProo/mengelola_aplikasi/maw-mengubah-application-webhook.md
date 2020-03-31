@@ -1,7 +1,8 @@
 #### **3.5.9.2 Mengubah Application Webhook**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk mengubah application webhook. Berikut ini langkah-langkah untuk mengubah 
-application webhook:
+Di dalam bagian ini akan dijabarkan mengenai proses untuk mengubah application webhook.
+
+Berikut ini langkah-langkah untuk mengubah application webhook:
 
 1. Pilih menu **Application**
 

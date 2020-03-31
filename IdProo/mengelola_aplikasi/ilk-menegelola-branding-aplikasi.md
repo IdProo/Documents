@@ -10,17 +10,17 @@ Berikut ini langkah-langkah untuk mengatur branding aplikasi:
 
 3. Pilih **Branding** dan kemudian masukan informasi lengkap mengenai aplikasi dengan field- field di bawah ini:
 
-\- Name
-\- Home Page URL
-\- Terms of Service URL
-\- Privacy Statement URL
-\- Publisher Domain
-\- Requirements
-\- Programs
-\- Database
-\- Technologies
-\- Description
-\- Screenshot Application
+- Name
+- Home Page URL
+- Terms of Service URL
+- Privacy Statement URL
+- Publisher Domain
+- Requirements
+- Programs
+- Database
+- Technologies
+- Description
+- Screenshot Application
 
 ![](media/fffea7010c5420b32b4350cc165e06dd.png)
 

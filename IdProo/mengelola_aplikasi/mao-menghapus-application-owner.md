@@ -1,6 +1,6 @@
 #### **3.5.8.2 Menghapus Application Owner**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus owner pada aplikasi
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus owner pada aplikasi.
 
 Berikut ini langkah-langkah untuk menghapuskan owner pada aplikasi:
 

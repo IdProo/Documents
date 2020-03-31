@@ -1,6 +1,6 @@
 #### **3.5.7.3 Menghapus Application Role**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus daftar application role**.**
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapus daftar application role.
 
 Berikut ini langkah-langkah untuk menghapuskan application role:
 

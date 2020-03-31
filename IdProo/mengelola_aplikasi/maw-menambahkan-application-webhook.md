@@ -2,7 +2,7 @@
 
 #### **3.5.9.1 Menambahkan Application Webhook**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan application webhook
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan application webhook.
 
 Berikut ini langkah-langkah untuk menambahkan application webhook:
 

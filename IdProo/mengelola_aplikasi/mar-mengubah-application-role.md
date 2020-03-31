@@ -1,6 +1,6 @@
 #### **3.5.7.2 Mengubah Application Role**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk mengubah nama role pada aplikasi yang sudah ditambahkan sebelumnya**.**
+Di dalam bagian ini akan dijabarkan mengenai proses untuk mengubah nama role pada aplikasi yang sudah ditambahkan sebelumnya.
 
 Berikut ini langkah-langkah untuk mengubah nama role pada aplikasi:
 

@@ -1,6 +1,6 @@
 #### **3.5.7.4 Mencari Daftar Application Role**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar application role yang sudah dimasukan**.**
+Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar application role yang sudah dimasukan.
 
 Berikut ini langkah-langkah untuk mencari daftar application role:
 

@@ -1,4 +1,4 @@
-#### **3.5.8.3 Mencari Daftar Application **
+#### **3.5.8.3 Mencari Daftar Application**
 
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar application owner. Berikut ini langkah-langkah untuk 
 mencari daftar application owner:

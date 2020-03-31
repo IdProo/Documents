@@ -1,8 +1,6 @@
 #### **3.5.6.2 Mendefinisikan Custom Scope**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk mendefinisikan *custom scope*
-
-untuk membatasi akses ke data oleh API**.**
+Di dalam bagian ini akan dijabarkan mengenai proses untuk mendefinisikan *custom scope* untuk membatasi akses ke data oleh API.
 
 Berikut ini langkah-langkah untuk menambahkan API scope:
 

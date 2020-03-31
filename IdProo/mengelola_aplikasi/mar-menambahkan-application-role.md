@@ -2,8 +2,8 @@
 
 #### **3.5.7.1 Menambahkan Application Role**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan *application roles* pada masing-masing aplikasi**. 
-Application role** ini berfungsi untuk membatasi kewenangan pengguna dalam mengakses aplikasi yang sesuai dengan kewenangan pengguna tersebut.
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan *application roles* pada masing-masing aplikasi. 
+**Application role** ini berfungsi untuk membatasi kewenangan pengguna dalam mengakses aplikasi yang sesuai dengan kewenangan pengguna tersebut.
 
 Berikut ini langkah-langkah untuk menambahkan application role:
 
