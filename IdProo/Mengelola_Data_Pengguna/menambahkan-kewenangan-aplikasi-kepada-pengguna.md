@@ -9,9 +9,9 @@ dan mendaftarkan aplikasi yang tidak boleh diakses oleh pengguna pada daftar *bl
 
 Untuk menambahkan kewenangan aplikasi kepada pengguna ada beberapa syarat yang harus dipenuhi yaitu:
 
-	- Admin sudah mendaftarkan aplikasi
+- Admin sudah mendaftarkan aplikasi
 
-	- Admin sudah menambahkan kewenangan pada setiap aplikasi
+- Admin sudah menambahkan kewenangan pada setiap aplikasi
 
 Berikut ini langkah-langkah untuk menambahkan daftar *whitelist application*:
 
@@ -21,9 +21,7 @@ Berikut ini langkah-langkah untuk menambahkan daftar *whitelist application*:
 
 ![](media/63076ffcbcc8fd7113518e3fe1f0318c.png)
 
-3. Untuk menambahkan daftar aplikasi yang diperbolehkan untuk diakses pengguna, pilih
-
-**Whitelist**
+3. Untuk menambahkan daftar aplikasi yang diperbolehkan untuk diakses pengguna, pilih **Whitelist**
 
 ![](media/0d414810d6cb20379c53870680fe57f9.png)
 
@@ -37,8 +35,7 @@ Berikut ini langkah-langkah untuk menambahkan daftar *whitelist application*:
 
 ![](media/7ba586456021f4c9de34a56dda382d8a.jpg)
 
-6. Di dalam masing-masing aplikasi terdapat role, pilih **Role** aplikasi
->   yang akan diberikan kepada pengguna
+6. Di dalam masing-masing aplikasi terdapat role, pilih **Role** aplikasi yang akan diberikan kepada pengguna
 
 ![](media/a03ff65949a654da65e2c818b9cb58d3.jpg)
 
