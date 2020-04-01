@@ -1,7 +1,6 @@
 ## **Menambahkan Menu Akses**
 
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan menu akses. 
-
 Berikut ini langkah-langkah untuk menambahkan menu akses:
 
 1. Pilih menu **Master**
