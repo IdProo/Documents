@@ -8,4 +8,4 @@ Berikut ini langkah-langkah untuk mengekspor aplikasi:
 
 2. Pilih **Export** dan kemudian daftar aplikasi akan terekspor dan tersimpan di direktori penyimpanan komputer pengguna
 
-![](media/2c1a1c1d86bca28a854452d6ad7ffcbe.png)
+![Gambar](_screenshot/.png/?sanitize=true)

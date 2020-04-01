@@ -4,12 +4,12 @@ Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna.
 
 Atribut pengguna yang dibutuhkan pada proses ini adalah sebagai berikut:
 
-  - Organization
-  - First Name
-  - Last Name
-  - Display Name
-  - Email
-  - Password
+- Organization
+- First Name
+- Last Name
+- Display Name
+- Email
+- Password
 
 Berikut ini langkah-langkah untuk menambahkan data pengguna:
 	
