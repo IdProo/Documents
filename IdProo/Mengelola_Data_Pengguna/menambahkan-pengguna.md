@@ -15,20 +15,20 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 1. Pilih menu **Users**
 2. Untuk menambahkan data pengguna, pilih **Add New User**
 
-![Add User](_screenshot/Add User.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
 
 3. Input form **Add New User** dengan memasukan atribut organization, firstname, lastname, displayname, email dan password user
 
-![Gambar](_static/Add User.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
 
 4. Centang pada **Account Enabled**
 
 5. Klik button **Submit** untuk menyimpan data pengguna
 
-![Gambar](_static/Add User.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
 
-![Gambar](_static/Add User.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
 
 6. Klik button **Cancel** untuk membatalkan proses penambahan data pengguna
 	
-![Gambar](_static/Add User.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
