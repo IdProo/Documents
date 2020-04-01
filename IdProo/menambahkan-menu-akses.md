@@ -1,8 +1,4 @@
-# **7 Data Master**
-
-## **7.1 Mengelola Menu Akses**
-
-#### **7.1.1.1 Menambahkan Menu Akses**
+#### **Menambahkan Menu Akses**
 
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan menu akses. 
 
