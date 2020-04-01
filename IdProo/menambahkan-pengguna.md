@@ -1,7 +1,8 @@
 ## **Menambahkan Pengguna**
 
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna. Atribut pengguna yang dibutuhkan pada 
-proses ini adalah sebagai berikut:
+<p style='text-align: justify;'> Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna. Atribut pengguna yang dibutuhkan pada 
+proses ini adalah sebagai berikut: </p>
+
   - Organization
   - First Name
   - Last Name
@@ -18,12 +19,12 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 
 3. Input form **Add New User** dengan memasukan atribut organization, firstname, lastname, displayname, email dan password user
 
-![Gambar 3](_screenshot/Account Enabled.png/?sanitize=true)
+![Gambar 3](_screenshot/Account_Enabled.png/?sanitize=true)
 
 4. Centang pada **Account Enabled**
 5. Klik button **Submit** untuk menyimpan data pengguna
 
-![Gambar 4](_screenshot/Submit User.png/?sanitize=true)
+![Gambar 4](_screenshot/Submit_User.png/?sanitize=true)
 
 ![Gambar 5](_screenshot/Dashboard.png/?sanitize=true)
 
