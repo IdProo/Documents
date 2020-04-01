@@ -27,8 +27,6 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 
 ![Gambar 4](_screenshot/Submit_User.png/?sanitize=true)
 
-![Gambar 5](_screenshot/Dashboard.png/?sanitize=true)
-
 6. Klik button **Cancel** untuk membatalkan proses penambahan data pengguna
 	
 ![Gambar 6](_screenshot/Dashboard.png/?sanitize=true)
