@@ -1,7 +1,8 @@
 ## **Menambahkan Pengguna**
 
-<p style='text-align: justify;'> Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna. Atribut pengguna yang dibutuhkan pada 
-proses ini adalah sebagai berikut: </p>
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna. 
+
+Atribut pengguna yang dibutuhkan pada proses ini adalah sebagai berikut:
 
   - Organization
   - First Name
