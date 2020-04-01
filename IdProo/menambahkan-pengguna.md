@@ -15,7 +15,7 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 1. Pilih menu **Users**
 2. Untuk menambahkan data pengguna, pilih **Add New User**
 
-![Acces Menu](IdProo/_screenshot/Dashboard.png/?sanitize=true)
+![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
 
 3. Input form **Add New User** dengan memasukan atribut organization, firstname, lastname, displayname, email dan password user
 
