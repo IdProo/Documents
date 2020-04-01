@@ -9,4 +9,4 @@ Berikut ini langkah-langkah untuk melihat ikhtisar aplikasi:
 3. Pilih **Overview** untuk melihat ikhtisar mengenai aplikasi yang terdiri dari informasi **Display Name, Application 
 (Client) ID, Object ID, Supported Account Types, Redirect URIs**
 
-![](media/ddae42af14b5df881640537ae821f4cd.png)
+![Gambar](_screenshot/.png/?sanitize=true)
