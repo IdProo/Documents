@@ -19,7 +19,7 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 
 3. Input form **Add New User** dengan memasukan atribut organization, firstname, lastname, displayname, email dan password user
 
-![Gambar 3](_screenshot/Account_Enabled.png/?sanitize=true)
+![Gambar 3](_screenshot/Account_Enable.png/?sanitize=true)
 
 4. Centang pada **Account Enabled**
 5. Klik button **Submit** untuk menyimpan data pengguna
