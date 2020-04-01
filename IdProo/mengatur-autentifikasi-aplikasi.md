@@ -1,30 +1,25 @@
-### **3.5.3 Mengatur Autentikasi Aplikasi**
+## ** Mengatur Autentikasi Aplikasi**
  
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan redirect URI, target logout URL dan memilih client scope untuk 
-aplikasi.
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan redirect URI, target logout URL dan memilih client 
+scope untuk aplikasi.
 
 Berikut ini langkah-langkah untuk menambahkan redirect URI:
 
 1. Pilih menu **Application**
-
 2. Double klik pada daftar aplikasi
-
 3. Untuk mengatur authentication pada aplikasi, pilih **Authentication**
 
-![](media/0b35d9729f4e855d65a0e2bd80cb0016.png)
+![Gambar](_screenshot/.png/?sanitize=true)
 
 4. Pilih **Redirect URIs**
-
 5. Untuk memasukan target URL login aplikasi, pilih **New Redirect URIs** dan kemudian masukan target URL login dan **Enter**
 
-![](media/18b5b8858790f56eeef2a9844cb95afb.jpg)
+![Gambar](_screenshot/.png/?sanitize=true)
 
 Berikut ini langkah-langkah untuk menghapuskan redirect URI:
 
  1. Pilih **Application**
-
  2. Double klik pada daftar aplikasi
-
  3. Untuk mengatur authentication pada aplikasi, pilih **Authentication**
 
  ![](media/5eeceba428a51629a5566a2e1499ba2a.png)
