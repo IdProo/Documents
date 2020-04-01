@@ -14,7 +14,7 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 1. Pilih menu **Users**
 2. Untuk menambahkan data pengguna, pilih **Add New User**
 
-![Gambar 2](_screenshot/Add User.png/?sanitize=true)
+![Gambar 2](_screenshot/Add_User.png/?sanitize=true)
 
 3. Input form **Add New User** dengan memasukan atribut organization, firstname, lastname, displayname, email dan password user
 
