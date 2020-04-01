@@ -10,4 +10,4 @@ Di dalam panduan penggunaan ini Anda akan mempelajari beberapa hal diantaranya y
     
 Pada akhirnya Anda akan dapat menjalankan aplikasi IdProo melalui Web browser Anda
 
-![Acces Menu](_screenshot/Dashboard.png/?sanitize=true)
+![Gambar 1](_screenshot/Dashboard.png/?sanitize=true)
