@@ -1,9 +1,7 @@
-### **5.4.5 Mengelola Pengguna Pada Jabatan AdHoc**
+## **Menambahkan Daftar Pengguna Pada Jabatan AdHoc**
 
-#### **5.4.5.1 Menambahkan Daftar Pengguna Pada Jabatan AdHoc**
-
-Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna pada jabatan adhoc dengan memilih nama pengguna,
-memasukan nomor Surat Keputusan (SK) jabatan, tanggal mulai jabatan, tanggal berakhir jabatan (\*jika ada).
+Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna pada jabatan adhoc dengan memilih nama 
+pengguna, memasukan nomor Surat Keputusan (SK) jabatan, tanggal mulai jabatan, tanggal berakhir jabatan (\*jika ada).
 
 Berikut ini langkah-langkah untuk menambahkan pengguna pada jabatan adhoc:
 
