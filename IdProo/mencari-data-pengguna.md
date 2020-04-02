@@ -9,4 +9,4 @@ Berikut ini langkah-langkah untuk mencari data pengguna:
 2. Pilih **unit kerja**
 3. Pilih **Search** dan kemudian masukan kata kunci pencarian berdasarkan *display name* atau email pengguna
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_screenshot/Gambar_6.jpg/?sanitize=true)
