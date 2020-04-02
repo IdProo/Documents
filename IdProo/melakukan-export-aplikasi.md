@@ -1,5 +1,3 @@
-## **3.4 Melakukan Export Aplikasi**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mengekspor daftar aplikasi dalam format .xlsx.
 
 Berikut ini langkah-langkah untuk mengekspor aplikasi:

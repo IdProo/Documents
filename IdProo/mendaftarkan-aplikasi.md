@@ -1,5 +1,3 @@
-## ** Mendaftarkan Aplikasi**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan aplikasi sehingga aplikasi ini dapat dikelola secara 
 terpusat dan terintegrasi.
 

@@ -1,5 +1,3 @@
-## **Menambahkan Kewenangan Aplikasi Pada Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan kewenangan aplikasi kepada pengguna berdasarkan 
 jabatan. Kewenangan akses aplikasi terbagi dua yaitu daftar kewenangan aplikasi yang boleh diakses oleh pengguna 
 (*whitelist*) dan daftar aplikasi yang tidak dapat diakses oleh pengguna (*blacklist*).

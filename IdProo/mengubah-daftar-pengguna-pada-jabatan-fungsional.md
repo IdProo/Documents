@@ -1,5 +1,3 @@
-## **Mengubah Daftar Pengguna Pada Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mengubah daftar pengguna pada jabatan fungsional.
 
 Berikut ini langkah-langkah untuk mengubah pengguna pada jabatan fungsional:

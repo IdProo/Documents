@@ -1,5 +1,3 @@
-## **Mencari Daftar Aplikasi Pada Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar aplikasi di *whitelist application* dan *blacklist application*.
 
 Berikut ini langkah-langkah untuk mencari daftar aplikasi *whitelist*:

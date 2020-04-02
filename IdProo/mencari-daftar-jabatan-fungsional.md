@@ -1,5 +1,3 @@
-### **5.3.3 Mencari Daftar Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari jabatan fungsional. 
 
 Berikut ini langkah-langkah untuk mencari jabatan fungsional:

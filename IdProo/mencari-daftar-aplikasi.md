@@ -1,5 +1,3 @@
-## **Mencari Daftar Aplikasi**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar aplikasi.
 
 **Prasyarat:**

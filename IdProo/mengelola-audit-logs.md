@@ -1,5 +1,3 @@
-## **Mengelola Audit Logs**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mengelola audit logs. Audit logs adalah daftar riwayat aktivitas 
 yang dilakukan oleh pengguna dalam mengakses sebuah aplikasi. Informasi yang ditampilkan pada audit logs, diantaranya adalah:
 
@@ -19,35 +17,35 @@ Berikut ini langkah-langkah untuk mencari daftar audit logs:
 1. Pilih menu **Master**
 2. Pilih **Audit Logs**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_1.png/?sanitize=true)
 
 3. Untuk mencari daftar audit logs, pilih **Search** dan masukan kata kunci pencarian kemudian **Enter**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_2.png/?sanitize=true)
 
 Berikut ini langkah-langkah untuk mengekspor daftar audit log:
 
 1. Pilih menu **Master**
 2. Pilih **Audit Logs**
 
-![Gambar](_screenshot/.png/?sanitize=true)ng)
+![Gambar](_static/Gambar7.2_3.png/?sanitize=true)ng)
 
 3. Untuk mengekspor daftar aktivitas pada audit logs, pilih **Export to Excel**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_4.png/?sanitize=true)
 
 Berikut ini langkah-langkah untuk memfilter daftar aktivitas pada audit logs:
 
 1. Pilih menu **Master**
 2. Pilih **Audit Logs**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_5.png/?sanitize=true)
 
 3. Pilih **Filter**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_6.png/?sanitize=true)
 
 4. Input informasi yang dibutuhkan pada form **Filter**
 5. Pilih **Find** memfilter informasi sesuai dengan data yang dimasukan
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar7.2_7.png/?sanitize=true)

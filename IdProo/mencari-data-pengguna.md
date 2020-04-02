@@ -1,5 +1,3 @@
-## **Mencari Data Pengguna**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari data pengguna. Atribut yang digunakan untuk mencari data pengguna
 adalah *display name* atau email pengguna
 
@@ -9,4 +7,4 @@ Berikut ini langkah-langkah untuk mencari data pengguna:
 2. Pilih **unit kerja**
 3. Pilih **Search** dan kemudian masukan kata kunci pencarian berdasarkan *display name* atau email pengguna
 
-![Gambar](_screenshot/Gambar_6.jpg/?sanitize=true)
+![Gambar](_static/Gambar2.2.png/?sanitize=true)

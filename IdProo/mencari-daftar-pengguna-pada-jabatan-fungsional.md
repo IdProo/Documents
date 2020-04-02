@@ -1,5 +1,3 @@
-## **Mencari Daftar Pengguna Pada Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk mencari daftar pengguna pada jabatan fungsional.
 
 Berikut ini langkah-langkah untuk mencari pengguna pada jabatan fungsional:

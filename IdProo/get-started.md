@@ -1,5 +1,3 @@
-# **Get Started**
-
 Di dalam panduan penggunaan ini Anda akan mempelajari beberapa hal diantaranya yaitu:
 - Mengelola Data Pengguna
 - Mengelola Aplikasi
@@ -10,4 +8,4 @@ Di dalam panduan penggunaan ini Anda akan mempelajari beberapa hal diantaranya y
     
 Pada akhirnya Anda akan dapat menjalankan aplikasi IdProo melalui Web browser Anda
 
-![Gambar Dashboard](_screenshot/Dashboard.png/?sanitize=true)
+![Gambar Dashboard](_static/Gambar1_1.png/?sanitize=true)

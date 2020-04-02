@@ -1,5 +1,3 @@
-## **Menghapus Daftar Aplikasi**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapuskan daftar aplikasi.
 
 Berikut ini langkah-langkah untuk menghapuskan aplikasi:

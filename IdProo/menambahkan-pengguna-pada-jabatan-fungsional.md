@@ -1,5 +1,3 @@
-## **Menambahkan Pengguna Pada Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan pengguna pada jabatan fungsional dengan memilih 
 nama pengguna, memasukan nomor Surat Keputusan (SK) jabatan, tanggal mulai jabatan, tanggal berakhir jabatan (\*jika ada).
 

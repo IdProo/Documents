@@ -1,5 +1,3 @@
-## **Menambahkan Daftar Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menambahkan jabatan fungsional.
 
 Berikut ini langkah-langkah untuk menambahkan jabatan fungsional:

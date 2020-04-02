@@ -1,5 +1,3 @@
-## **Menghapus Daftar Jabatan Fungsional**
-
 Di dalam bagian ini akan dijabarkan mengenai proses untuk menghapuskan jabatan fungsional. 
 
 Berikut ini langkah-langkah untuk menghapuskan jabatan fungsional:
