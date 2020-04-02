@@ -29,4 +29,4 @@ Berikut ini langkah-langkah untuk menambahkan data pengguna:
 
 6. Klik button **Cancel** untuk membatalkan proses penambahan data pengguna
 	
-![Gambar Cancel Submit](_screenshot/Gambar 5.jpg/?sanitize=true)
+![Gambar Cancel Submit](_screenshot/Gambar_5.jpg/?sanitize=true)
