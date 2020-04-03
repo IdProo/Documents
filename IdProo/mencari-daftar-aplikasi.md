@@ -9,4 +9,4 @@ Berikut ini langkah-langkah untuk mencari aplikasi:
 1. Pilih menu **Application**
 2. Untuk mencari daftar aplikasi, pilih **Seach** dan kemudian klik **Enter**
 
-![Gambar](_screenshot/.png/?sanitize=true)
+![Gambar](_static/Gambar3.3.png/?sanitize=true)
