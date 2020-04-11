@@ -13,7 +13,7 @@ uid: changelog
 
 #### Added
 
-*   Application Settings for **Notification, SMS, Email** and **Default Organization**
+* Application Settings for **Notification, SMS, Email** and **Default Organization**
 *   _Busines to Customes_ **B2C** Identity Provider for **Google** and **Facebook**
 *   **IdProo Agent** for Active Directory (AD)
 *   Synchronization target to Directory Hubs
