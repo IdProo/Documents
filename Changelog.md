@@ -43,9 +43,9 @@ uid: changelog
 * Dashboard information *"Summary"* for *Users, Login, Application and Activities*
 * Drill-down *users* activities in dashboard
 * Users in organizations
-    * Manage data users in IdProo such as: **Add, Edit, Detail, Delete (Hard & Soft)**
+    * Manage data users in IdProo such as: *Add, Edit, Detail, Delete (Hard & Soft)*
     * Enable and disable user in details
-    * Lock and unlock, relate in every Identity Provider **(IdP)**
+    * Lock and unlock, relate in every Identity Provider *(IdP)*
 * Applications registred in IdProo
   * Add new application client for Web *(Hybrid, SPA), Mobile, Desktop*
   * Manage application properties such as: *Branding, Authentications, Clients secret, API Permissions, Expose an API, Application Role and Owner*
