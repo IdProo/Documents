@@ -14,26 +14,26 @@ uid: changelog
 #### Added
 
 * Application Settings for **Notification, SMS, Email** and **Default Organization**
-*   _Busines to Customes_ **B2C** Identity Provider for **Google** and **Facebook**
-*   **IdProo Agent** for Active Directory (AD)
-*   Synchronization target to Directory Hubs
-*   Multiple users properties from Synchronization
-*   CSS and Javascript **Skeleton**
-*   Add IdP, DirectoryId and Status (Active or Inactive) in DB user Identity
-*   Webhook in application, also devide in section model and HTTP request
+* _Busines to Customes_ **B2C** Identity Provider for **Google** and **Facebook**
+* **IdProo Agent** for Active Directory (AD)
+* Synchronization target to Directory Hubs
+* Multiple users properties from Synchronization
+* CSS and Javascript **Skeleton**
+* Add IdP, DirectoryId and Status (Active or Inactive) in DB user Identity
+* Webhook in application, also devide in section model and HTTP request
 
 #### Changed
 
-*   Improve dashboard application
-*   Improve security access for login and application
-*   Improve Login Identity from **External data Provider**
-*   Add new user properties **directoryId** and **providerId**
-*   Fix typo for label
-*   Improve query and display data
-*   Rename surename and givenname to firstname and lastname
-*   Improve CSS and layouting for (List, Form, Table)
-*   Improve reset password
-*   Improve market place
+* Improve dashboard application
+* Improve security access for login and application
+* Improve Login Identity from **External data Provider**
+* Add new user properties **directoryId** and **providerId**
+* Fix typo for label
+* Improve query and display data
+* Rename surename and givenname to firstname and lastname
+* Improve CSS and layouting for (List, Form, Table)
+* Improve reset password
+* Improve market place
 
 #### Removed
 
@@ -45,18 +45,15 @@ uid: changelog
 
 #### Added
 
-*   **IdProo** as more than Single Sign On **(SSO)** Applications
-*   **Dashboard** information **"Summary"** for **Users, Login, Application and Activities**
-*   Drill-down **users** activities in dashboard
-*   ##### 
-
+* **IdProo** as more than Single Sign On **(SSO)** Applications
+* **Dashboard** information **"Summary"** for **Users, Login, Application and Activities**
+* Drill-down **users** activities in dashboard
+* ##### 
     <noscript>Users</noscript>
-
     in organizations
-
-    *   Manage data users in IdProo such as: **Add, Edit, Detail, Delete (Hard & Soft)**
-    *   Enable and disable user in details
-    *   Lock and unlock, relate in every Identity Provider **(IdP)**
+    * Manage data users in IdProo such as: **Add, Edit, Detail, Delete (Hard & Soft)**
+    * Enable and disable user in details
+    * Lock and unlock, relate in every Identity Provider **(IdP)**
 *   ##### **Applications** registred in IdProo
 
     *   Add new application client for Web **(Hybrid, SPA), Mobile, Desktop**
