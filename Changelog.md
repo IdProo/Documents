@@ -39,8 +39,8 @@ uid: changelog
 **1.0.0** - _2020-01-30_
 
 #### Added
-* **IdProo** as more than Single Sign On **(SSO)** Applications
-* **Dashboard** information **"Summary"** for **Users, Login, Application and Activities**
+* IdProo as more than Single Sign On **(SSO)** Applications
+* Dashboard information **"Summary"** for **Users, Login, Application and Activities**
 * Drill-down **users** activities in dashboard
 * ##### 
     <noscript>Users</noscript>
