@@ -7,7 +7,6 @@ ysi.custom: idproo
 ysi.date: 4/18/2020
 uid: getting-started
 ---
-# Konsep 
 Memahami dasar dari arsitektur dan *APIs IdProo* 
 
 ## Otentikasi

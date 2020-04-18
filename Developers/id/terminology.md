@@ -7,12 +7,7 @@ ysi.custom: idproo
 ysi.date: 4/18/2020
 uid: getting-started
 ---
-
-# Terminologi 
-Spesifikasi, dokumentasi, dan model objek pada IdProo menggunakan terminologi tertentu yang harus anda ketahui.
-
-## IdProo
-IdProo mengimplementasikan protokol OpenID Connect dan OAuth 2.0 yang menyediakan token keamanan pada aplikasi klien.
+Spesifikasi, dokumentasi, dan model objek pada IdProo menggunakan terminologi tertentu yang harus anda ketahui. IdProo mengimplementasikan protokol OpenID Connect dan OAuth 2.0 yang menyediakan token keamanan pada aplikasi klien.
 
 IdProo memiliki pekerjaan dan fitur - termasuk:
 * Melindungi sumber daya Anda
