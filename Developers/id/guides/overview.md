@@ -1,4 +1,4 @@
-## Step-by step guides for the IdProo platform
+## Panduan penggunaan platform IdProo
 Pelajari bagaimana menggunakan IdProo's APIs setahap demi setahap. 
 
 ### Sign pengguna ke aplikasi web
