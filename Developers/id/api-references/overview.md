@@ -4,7 +4,7 @@ Pada bagian ini, anda dapat mendapatkan informasi terkait kebutuhan pengembangan
 
  
 
-**Cara pemanggilan API**
+**Cara Pemanggilan API**
 
 Pada API IdAMan, request pemanggilan API menggunakan pola sebagai berikut
 
