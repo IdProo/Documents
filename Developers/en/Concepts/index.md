@@ -20,5 +20,4 @@ Restructuring the application to support a security token service leads to the f
 
 Such a design divides security concerns into two parts: 
 - [Authentication](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/de58ab4ca1b54ef682c5611467c762aa)
-- [API Access](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/8385c8bc118e46799b3a1fdb5c24e553) 
-- [Terminology](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/04746b7fa499468091e6395ec215bb58) 
+- [API Access](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/8385c8bc118e46799b3a1fdb5c24e553)  
