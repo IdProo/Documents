@@ -1,4 +1,4 @@
-Applications have two fundamental ways with which they communicate with APIs - using the application identity, or delegating the user`s identity. 
+Applications have two fundamental ways with which they communicate with APIs - using the application identity, or delegating the user's identity. 
 Sometimes both methods need to be combined.
 
 
@@ -12,4 +12,4 @@ The two fundamental security concerns, authentication and API access, are combin
 
 
 We believe that the combination of **OpenID Connect** and **OAuth 2.0** is the best approach to secure modern applications for the foreseeable future. 
-IdAMan is an implementation of these two protocols and is highly optimized to solve the typical security problems of today`s mobile, native and web applications.
+IdAMan is an implementation of these two protocols and is highly optimized to solve the typical security problems of today's mobile, native and web applications.
