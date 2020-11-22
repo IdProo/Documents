@@ -7,7 +7,7 @@ ysi.custom: idproo
 ysi.date: 4/18/2020
 uid: getting-started
 ---
-Memahami dasar dari arsitektur dan *APIs IdProo* 
+Memahami dasar dari arsitektur dan *APIs IdProo* s
 
 ## Otentikasi
 *IdProo* dibuat khusus untuk aplikasi moderen. Pelajari tentang *OAuth 2.0*, *OIDC (Open ID Connect)* dan *API Otentikasi*
