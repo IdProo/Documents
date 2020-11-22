@@ -19,5 +19,5 @@ Restructuring the application to support a security token service leads to the f
 ![Web app idproo page](_static/protocols.png?sanitize=true)
 
 Such a design divides security concerns into two parts: 
-- [I'm an inline-style link](https://www.google.com)
-- [I'm an inline-style link](https://www.google.com) 
+- [Authentication](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/de58ab4ca1b54ef682c5611467c762aa)
+- [API Access](#!/Posts/5f74f9cd-5619-42cf-a071-83e44726e9dc/big-picture/8385c8bc118e46799b3a1fdb5c24e553) 
