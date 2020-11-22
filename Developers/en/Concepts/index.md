@@ -10,7 +10,7 @@ Most modern applications look more or less like this:
 - Server-based applications communicate with web APIs
 - Web APIs communicate with web APIs (sometimes on their own, sometimes on behalf of a user)
 
-Typically each and every layer (front-end, middle-tier and back-end) has to protect resources and implement authentication and/or authorization – often against the same user store.
+Typically each and every layer (front-end, middle-tier and back-end) has to protect resources and implement authentication and/or authorization â€“ often against the same user store.
 
 Outsourcing these fundamental security functions to a security token service prevents duplicating that functionality across those applications and endpoints.
 
