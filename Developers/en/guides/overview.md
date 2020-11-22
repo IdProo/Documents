@@ -1,8 +1,7 @@
-## Panduan penggunaan platform IdProo
-Pelajari bagaimana menggunakan IdProo's APIs setahap demi setahap. 
-
-### Sign pengguna ke aplikasi web
-Pelajari cara menambahkan otentikasi ke aplikasi web Anda dan masuk pengguna menggunakan API dan perpustakaan IdProo.
-
-### Sign pengguna ke single-page application (SPA)
-Pelajari cara masuk pengguna ke aplikasi front-end JavaScript Anda dan memerlukan otentikasi menggunakan API dan perpustakaan IdProo.
+The documention will guide you, how to connect your application with IdAMan Authentication and Authorization
+ 
+Programing language support for:
+- ASP Net Core
+- PHP Native
+- PHP Moodle
+- SPA Javascript
